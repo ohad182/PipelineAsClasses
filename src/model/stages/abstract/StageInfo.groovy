@@ -1,4 +1,4 @@
-package src.model.stages.abstract
+package model.stages.abstract
 
 class StageInfo implements Serializable {
 
